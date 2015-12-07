@@ -1,0 +1,24 @@
+@media screen and(min-width: 992px){
+	.panels{
+		margin-left: 240px!important;
+	}
+}
+footer a{
+	color:#000;
+}
+footer{
+	position: fixed;
+	bottom: 0px;
+	width:100%;
+	z-index:99;
+	height:30px;
+	padding-top:0px;
+	margin-top: 0px;
+}
+.collection-item a{
+	color:#039be5;
+}
+h3{
+	font-size:20px;
+	font-weight: bold;
+}

@@ -1,0 +1,1 @@
+<script type="text/javascript">window.window.location.href="index.php"</script>
