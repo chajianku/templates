@@ -1,3 +1,3 @@
 # GitHub Pages
 
-StusGame 贴吧云签到插件库
+StusGame 贴吧云签到模板库
