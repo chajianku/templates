@@ -1,3 +1,3 @@
 # GitHub Pages
 
-StusGame Ìù°ÉÔÆÇ©µ½²å¼ş¿â
+StusGame è´´å§äº‘ç­¾åˆ°æ’ä»¶åº“
